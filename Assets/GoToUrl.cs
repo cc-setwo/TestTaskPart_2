@@ -5,9 +5,7 @@ using UnityEngine;
 public class GoToUrl : MonoBehaviour
 {
 
-    private string Url = "https://www.instagram.com/lucid_reality_labs/"
-
-;   // https://www.instagram.com/lucid_reality_labs/
+    private string Url = "https://www.instagram.com/lucid_reality_labs/"; 
 
     private void OnMouseDown()
     {
